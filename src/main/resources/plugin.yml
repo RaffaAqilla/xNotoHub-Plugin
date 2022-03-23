@@ -1,0 +1,8 @@
+name: "xNotoHub"
+version: "1.0-ALPHA"
+main: "vb.$xnotohub.PluginMain"
+api-version: 1.13
+authors: [xNotories]
+description: "xNotories HubPlugin"
+commands:
+permissions:
